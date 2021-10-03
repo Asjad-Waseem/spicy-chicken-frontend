@@ -1,0 +1,35 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+  @apply bg-orange-400;
+}
+
+h2 {
+  @apply text-36 font-bold;
+}
+h3 {
+  @apply text-26 font-bold;
+}
+h4 {
+  @apply text-22 font-bold;
+}
+p {
+  @apply text-18 leading-9;
+}
+p.p-md {
+  @apply text-22 leading-9;
+}
+p.p-lg {
+  @apply text-26 leading-9;
+}
+
+@media (max-width: 768px) {
+  h2 {
+    @apply text-26 font-bold;
+  }
+  p.p-lg {
+    @apply text-24 leading-9;
+  }
+}

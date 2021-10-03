@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="155.017" height="155.018" viewBox="0 0 155.017 155.018">
+  <g id="cursor-info" transform="translate(3 3.018)">
+    <path id="Path" d="M5,3.06A1.94,1.94,0,1,0,6.94,5,1.942,1.942,0,0,0,5,3.06" transform="translate(54 60)" fill="none" stroke="#f98a00" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6"/>
+    <path id="Path-2" data-name="Path" d="M58,116h0A58,58,0,0,1,0,58H0A58,58,0,0,1,58,0h0a58,58,0,0,1,58,58h0A58,58,0,0,1,58,116Z" transform="translate(0 33)" fill="none" stroke="#f98a00" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6"/>
+    <path id="Path-3" data-name="Path" d="M5,0V30" transform="translate(54 95)" fill="none" stroke="#f98a00" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6"/>
+    <path id="Path-4" data-name="Path" d="M2.451,18.989l28.561,28.56a8.333,8.333,0,0,0,14.143-4.717L49.914,9.513A8.328,8.328,0,0,0,40.488.087L7.168,4.846A8.332,8.332,0,0,0,2.451,18.989Z" transform="translate(99)" fill="none" stroke="#f98a00" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="6"/>
+  </g>
+</svg>
